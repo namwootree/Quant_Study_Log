@@ -1,9 +1,9 @@
 # 퀀트 공부 기록
 
 ## 도서
-Title | Content | Log 
+Title (지은이) | Content | Log 
 |--------|--------|------|
-[퀀트의 세계](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301197859)| 퀀트 1.0 ~ 3.0 / 취업 가이드 / 현직자 인터뷰 | [Velog](https://velog.io/@namwootree/series/%ED%80%80%ED%8A%B8%EC%9D%98-%EC%84%B8%EA%B3%84)
+[퀀트의 세계 (홍창수) ](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301197859)| 퀀트 1.0 ~ 3.0 / 취업 가이드 / 현직자 인터뷰 | [Velog](https://velog.io/@namwootree/series/%ED%80%80%ED%8A%B8%EC%9D%98-%EC%84%B8%EA%B3%84)
 
 ---
 
