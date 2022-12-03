@@ -1,11 +1,16 @@
+# 참고 사항
+
+* [참고하면 좋을 자료 Link](https://github.com/namwootree/Quant_Study_Log/blob/main/%EC%B0%B8%EA%B3%A0%ED%95%98%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%EC%9E%90%EB%A3%8C.md)
+* [해보면 좋을 프로젝트 Link](https://github.com/namwootree/Quant_Study_Log/blob/main/%ED%95%B4%EB%B3%B4%EB%A9%B4%20%EC%A2%8B%EC%9D%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8.md)
+
+---
+
 # 퀀트 공부 기록
 
 ## 도서
 Title (지은이) | Content | Log 
 |--------|--------|------|
 [퀀트의 세계 (홍창수) ](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=301197859)| 퀀트 1.0 ~ 3.0 / 취업 가이드 / 현직자 인터뷰 | [Velog](https://velog.io/@namwootree/series/%ED%80%80%ED%8A%B8%EC%9D%98-%EC%84%B8%EA%B3%84)
-
----
 
 ## 코드
 Title | Content | Log
